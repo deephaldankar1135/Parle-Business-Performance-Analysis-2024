@@ -23,10 +23,6 @@ Built using **Pivot Tables, Pivot Charts, and Slicers** for dynamic filtering by
 - `(https://github.com/deephaldankar1135/Parle-Business-Performance-Analysis-2024/blob/main/Screenshot%202026-02-11%20211934.png)` → Full dashboard preview
 - `README.md`
 
-## 📸 Dashboard Preview
-
-![Parle Dashboard](dashboard_screenshot.png)
-
 ## 🚀 How to Use
 1. Download the `.xlsx` file.
 2. Open it in Microsoft Excel.
