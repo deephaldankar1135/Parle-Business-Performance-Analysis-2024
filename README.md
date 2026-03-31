@@ -20,7 +20,7 @@ Built using **Pivot Tables, Pivot Charts, and Slicers** for dynamic filtering by
 
 ## 📁 Files Included
 - `Parle_Business_Performance_Dashboard_2024.xlsx` → Main interactive dashboard file
-- `dashboard_screenshot.png` → Full dashboard preview
+- `(https://github.com/deephaldankar1135/Parle-Business-Performance-Analysis-2024/blob/main/Screenshot%202026-02-11%20211934.png)` → Full dashboard preview
 - `README.md`
 
 ## 📸 Dashboard Preview
